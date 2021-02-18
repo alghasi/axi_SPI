@@ -5,3 +5,4 @@ File list:
 1. Spi.rar is Full open source hdl file of spi master/ slave
 2. TakSun_AXI_SPI_1.0.rar is full ipcore for VIVADO
 3. Others VHDL File is source of ip core
+4. test more
